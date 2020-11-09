@@ -1,0 +1,7 @@
+2
+6 6
+ABCDGH
+ABCDGHR
+3 2
+ABC
+AC
